@@ -20,23 +20,6 @@ Bienvenue sur le profil GitHub de **Exterminateur01** ! Ce profil contient une c
 - **HTML / CSS / JavaScript** : Frontend pour des interfaces interactives
 - **Docker** : Conteneurisation pour la gestion d'environnements isolés
 
-## Comment démarrer
-
-1. Clonez ce dépôt sur votre machine locale :
-    ```bash
-    git clone https://github.com/exterminateur01/nom_du_projet.git
-    ```
-
-2. Installez les dépendances :
-    ```bash
-    cd nom_du_projet
-    npm install
-    ```
-
-3. Lancez le projet :
-    ```bash
-    npm start
-    ```
 
 ## Contribuer
 
